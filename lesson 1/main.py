@@ -1,0 +1,20 @@
+name = "Liza" # String
+
+age = 14 # ky eshte nje int
+
+#print(name)
+#print(age)
+
+x = 10
+y=5
+z="15"
+
+e= int(z)
+
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+
+print(type(z))
+print(type(e))
